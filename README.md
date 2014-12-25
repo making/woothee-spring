@@ -3,9 +3,11 @@
 [Woothee](https://github.com/woothee/woothee-java) integration with Spring MVC
 
 ``` xml
-<groupId>am.ik.woothee</groupId>
-<artifactId>woothee-spring</artifactId>
-<version>1.0.0</version>
+<dependency>
+    <groupId>am.ik.woothee</groupId>
+    <artifactId>woothee-spring</artifactId>
+    <version>1.0.0</version>
+</dependency>
 ```
 
 ## How to use
